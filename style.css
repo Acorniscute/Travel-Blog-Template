@@ -1,0 +1,127 @@
+* {
+	margin:0;
+	padding:5px;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#top {
+    display:flex;
+}
+
+li {
+    border: 0px;
+    padding: 0;
+}
+
+ul {
+    list-style-type:   none;
+}
+
+input {
+    width:60%;
+    height:30px;
+    margin:1%;
+}
+
+form {
+    padding:2%;
+}
+
+#banner {
+	width:100%;
+    position: relative;
+    height:100vh;
+}
+
+.title {
+    color: #9B8888;
+    font-size: 24px;
+    margin-left: 10px;
+    letter-spacing: 1px;
+    font-weight: bold;
+
+}
+
+nav{
+    background-color: #ECFAFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: 5vh;
+    align-items: center;
+}
+
+nav a {
+    color: #9B8888;
+    text-decoration: none;
+    margin: 0 30px;
+    font-size: 18px;
+}
+
+nav a: hover {
+    text-decoration: underline;
+}
+
+#bannerDesc > p{
+    font-size : 25px;
+    line-height: 30px;
+    font-weight: bold;
+    color: white;
+    text-shadow: : #000 1px 0 10 px;
+    font-weight
+}
+
+#quicklink {
+    padding: 0;
+}
+
+#bannerDesc > h3 {
+    font-size:32px;
+    line-height: 40px;
+    color:white;
+    text-shadow: #000 1px 0 10px;
+}
+
+.name {
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+
+.map {
+    height:220px;
+}
+
+.post {
+    width: 220px;
+    height:294px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.social {
+    width: 50px;
+    height: 50px;
+    padding: 1%;
+}
+
+.header {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+
+
+#bannerDesc {
+    widthL45%
+    height:30wh;
+    padding: 3%;
+    text-align: justify;
+    border-radius: 20px;
+    position: absolute;
+}
+
+
